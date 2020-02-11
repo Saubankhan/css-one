@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  html {
+    font-family: "Karla", sans-serif;
+    font-size: 16px;
+    
+  }
+   /* common styles */
+  /* .cm {
+    margin: 20px 15px;
+    
+  } */
+  h2 {
+    font-size: 1.2rem;
+  } 
+  /* join our community styles */
+  .joc {
+    /* background-color: snow; */
+    
+  }
+  .joc h1 {
+    color: hsl(179, 62%, 43%);
+    margin-bottom: 1.3rem;
+    padding-top: 1.3rem;
+    margin-left: 2rem;
+  }
+  .joc h2 {
+    color: hsla(71, 73%, 54%, 0.856);
+    margin-bottom: 1.3rem;
+    margin-left: 2rem;
+  }
+  .joc p {
+    max-width: 85%;
+    color: rgb(172, 171, 171);
+    padding-bottom: 1.3rem;
+    margin-left: 2rem;
+  }
+  .ms{
+    background-color:hsl(179, 62%, 43%);  
+  }
+.ms h2{
+  color: hsla(203, 44%, 93%, 0.849);
+  margin-bottom: 1.3rem;
+  padding-top: 1.3rem;
+  margin-left: 2rem;
+}
+
+.ms p span{
+  color: white;
+  font-size: 2rem;
+  margin-left: 2rem;
+}
+.bt{
+  background-color: hsl(71, 73%, 54%);
+  width: 85%;
+  height: 50px;
+  color: #fff;
+  font-size: 20px;
+  margin-bottom: 1.3rem;
+  margin-left: 2rem;
+}
+  .why-us{
+    background-color: rgba(27, 183, 189, 0.616);
+  }
+  .why-us h2{
+    padding-top: 1.3rem;
+    margin-bottom: 1.2rem;
+    color: hsla(203, 44%, 93%, 0.849);
+    margin-left: 2rem;
+  }
+  .dv{
+ color: hsla(203, 44%, 93%, 0.822);
+ margin-left: 2rem;
+  }
+  .dv7{
+    padding-bottom: 1.3rem;
+    margin-left: 2rem;
+    /* margin-bottom: 1.2rem; */
+  }
+.p1{
+  color: #ccc;
+  margin-bottom: 1rem;
+  margin-left: 5px;
+}
+.p2{
+  color:hsla(203, 44%, 93%, 0.822);
+  margin-bottom: 1.3rem;
+  margin-left: 2rem;
+}
+.dv1{
+  margin-left: 2rem;
+  color: hsla(203, 44%, 93%, 0.822);
+}
+.dv2{
+  margin-left: 2rem;
+  color: hsla(203, 44%, 93%, 0.822);
+}
+.dv3{
+  margin-left: 2rem;
+  color: hsla(203, 44%, 93%, 0.822);
+}
+.dv4{
+  margin-left: 2rem;
+  color: hsla(203, 44%, 93%, 0.822);
+}
+.dv5{
+  margin-left: 2rem;
+  color: hsla(203, 44%, 93%, 0.822);
+}
+.dv6{
+  margin-left: 2rem;
+  color: hsla(203, 44%, 93%, 0.822);
+}
+.dv7{
+  margin-left: 2rem;
+  color: hsla(203, 44%, 93%, 0.822);
+}
